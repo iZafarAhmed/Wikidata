@@ -1,9 +1,9 @@
 [
   {
-    "Year": "Unknown",
+    "Year": "447",
     "Event": "Events",
-    "Name": "447",
-    "Description": "447 – A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.",
+    "Name": "Powerful Earthquake",
+    "Description": "A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.",
     "Links": [
       "https://en.wikipedia.org/wiki/447",
       "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
@@ -11,10 +11,10 @@
     "Date": "November 6"
   },
   {
-    "Year": "Unknown",
+    "Year": "963",
     "Event": "Events",
-    "Name": "963",
-    "Description": "963 – Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.",
+    "Name": "Synod of Rome",
+    "Description": "Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.",
     "Links": [
       "https://en.wikipedia.org/wiki/963",
       "https://en.wikipedia.org/wiki/Synod_of_Rome_(963)",
